@@ -122,7 +122,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="false" et-al-min="5" et-al-use-first="1">
+  <bibliography hanging-indent="false" et-al-min="6" et-al-use-first="1">
     <sort>
       <key macro="author"/>
       <key variable="title"/>
